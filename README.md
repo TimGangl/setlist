@@ -13,6 +13,7 @@ Giglist is an fullstack MERN app for musicians that solves the problem of lost s
 
 ## Authors
 [Jed Smit](https://github.com/jedsmit)
+<br>
 [Tim Gangl](https://github.com/TimGangl)
 
 ## This app is still under construction. 
