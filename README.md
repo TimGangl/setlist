@@ -11,7 +11,9 @@ Giglist is an fullstack MERN app for musicians that solves the problem of lost s
 * MongoDB
 * Mongoose
 
-
+## Authors
+[Jed Smit](https://github.com/jedsmit)
+[Tim Gangl](https://github.com/TimGangl)
 
 ## This app is still under construction. 
 
