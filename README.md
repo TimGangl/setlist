@@ -7,7 +7,7 @@ Giglist is an fullstack MERN app for musicians that solves the problem of lost s
 Clone down repo to be able to run localy. Then you need to install NPM packages. Once that is done all that is need to start the app is type `npm start` and the front end and back end with start concurrently in dev mode.
 
 ### Installing
-The following  npm packages need to be installed wich can be done by typing `npm install` in the projects root folder.
+The following  npm packages need to be installed wich can be done by typing `npm install` in the projects root folder. Doing this will install all the correct packages for you.
 * axios
 * bcriptjs
 * config
